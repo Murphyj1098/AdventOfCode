@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Advent of Code: Day 1
 
@@ -42,7 +43,6 @@ In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Addi
 together produces 281.
 
 What is the sum of all of the calibration values?
-
 '''
 
 import regex as re
